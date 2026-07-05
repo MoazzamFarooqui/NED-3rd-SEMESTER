@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/NEDUET-3rd%20Semester-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
 </p>
 
 ---
